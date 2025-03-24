@@ -29,7 +29,7 @@ const request = require('request');
 const { aireq, imagegen, math } = require('./serviceshandler.js');
 
 const app = express();
-const PORT = 1037;
+const PORT = 3000;
 
 app.set('trust proxy', true);
 
