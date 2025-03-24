@@ -27,7 +27,7 @@ const path = require('path');
 const request = require('request');
 
 const app = express();
-const PORT = 1223;
+const PORT = 3000;
 
 app.set('trust proxy', true);
 
